@@ -1,0 +1,9 @@
+java
+C:\Program Files (x86)\Java\jdk1.6.0_45
+
+C:\oracle\product\10.2.0\client_1
+
+C:\Program Files\Apache Software Foundation\Tomcat 7.0\
+
+weblogic
+C:\Oracle\Middleware
